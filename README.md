@@ -28,6 +28,7 @@ The affiliation data are provided in one Excel Workbook, ﻿[biparttite_gangs_da
 The [R](https://cran.r-project.org/) script, [create.gangs.object.R](https://github.com/jacobtnyoung/SYP-Networks/raw/master/create.gangs.object.r), creates a network object from these tabs to be examined in [R](https://cran.r-project.org/).  
 
 
+
 #### For further description and discussion of the networks, see:   
 
 **Young, Jacob T.N.**, Scott H. Decker, and Gary Sweeten. 2018. [The Boston Special Youth Project Affiliation Dataset](https://www.exeley.com/journal/connections). *Connections*, 37(1&2): 85-88.  
