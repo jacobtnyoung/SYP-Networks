@@ -7,12 +7,14 @@ The SYP was a “detached-worker program,” where an adult (typically a graduat
 
 These "intense study" groups were contacted by workers an average of 3.5 times per week for an average duration of 5.5 hours and the intervals of the contact periods ranged from 10 to 34 months ([Miller 1962](http://socpro.oxfordjournals.org/content/10/2/168)). During these contact periods, workers collected detailed field notes (“contact cards”) documenting the activities of study gang members and their interactions with each other, various community members (e.g., shop keepers, law enforcement), and the worker.  
 
+
 ### Revisiting The Special Youth Project (SYP)  
 Walter Miller passed away in 2004, with many of his professional papers and effects collected by a former graduate student, Hedy Bookin-Weiner. Dr. Bookin-Weiner contacted well-known gang researchers in the US about taking possession of these effects. [Scott Decker](https://ccj.asu.edu/content/scott-decker-0) eventually received the collection in 2006. In 2011, the typed chapters of Miller's ([2011](https://ccj.asu.edu/gangresearch)) previously unpublished book, *[City Gangs](https://ccj.asu.edu/gangresearch)*, and the roster of gang members from the SYP were discovered ([Moule and Decker 2013](http://www.jqcjc.org/documents/v1i2.pdf)). These data sources were eventually combined with the information from the contact cards. These rosters and the contact cards serve as the source of social network data.  
 
 From 2012-2016, a team of researchers (faculty, graduate, and undergraduate students) in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu/) electronically scanned and digitized the contact cards, and began the process of creating a network from the cards as part of a federally funded grant ([National Science Foundation Award #1228472](https://nsf.gov/awardsearch/showAward?AWD_ID=1228472); see [Moule and Decker 2013](http://www.jqcjc.org/documents/v1i2.pdf)). Each card was examined to match named persons with names of known gang members from the roster of study participants. From these cards, network data was created where individuals (i.e. gang members) were connected to events (i.e. contact cards).  
 
 Of all the cards, there were 79,671 physical contact cards. The research team was only able to clean 69,403 of the cards during the project period. During cleaning, the team noticed that many cards were duplicates of events and represented retyped cards by the social workers. After removing these duplicate cards and cards that were unreadable, there were 51,554 cards. Of these, 49,193 had valid dates that could be used to chronologically order the cards. From there, 33,653 cards had valid entries of names. That is, names of individuals from available rosters. These 33,653 cards contain 166 unique individuals from the seven gangs that constitute the “intensive study” groups.  
+
 
 ### The SYP Affiliation Data  
 The affiliation data are provided in one Excel Workbook, ﻿[biparttite_gangs_data.xlsx﻿](https://github.com/jacobtnyoung/SYP-Networks/raw/master/bipartite_gangs_data.xlsx), containing 3 worksheets (tabs).  
@@ -24,6 +26,7 @@ The affiliation data are provided in one Excel Workbook, ﻿[biparttite_gangs_da
 *[Actor.Attr](https://github.com/jacobtnyoung/SYP-Networks/raw/master/actor.attr.csv)*. This sheet provides the id (first column), gang in which the individuals is a member (second column), a dummy variable indicating whether the individual is male or female (third column; 1=male, 0=female), and a dummy variable indicating whether the individual is white or non-white (fourth column; 1=white, 0=non-white). These attributes are provided for each of the 166 individuals. Values of “NA” are listed for events.  
 
 The [R](https://cran.r-project.org/) script, [create.gangs.object.R](https://github.com/jacobtnyoung/SYP-Networks/raw/master/create.gangs.object.r), creates a network object from these tabs to be examined in [R](https://cran.r-project.org/).  
+
 
 #### For further description and discussion of the networks, see:   
 
