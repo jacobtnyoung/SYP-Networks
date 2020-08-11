@@ -27,7 +27,7 @@ The affiliation data are provided in one Excel Workbook, ﻿[biparttite_gangs_da
 
 The [R](https://cran.r-project.org/) script, [create.gangs.object.R](https://github.com/jacobtnyoung/SYP-Networks/raw/master/create.gangs.object.r), creates a network object from these tabs to be examined in [R](https://cran.r-project.org/).  
 
-
+<br>
 
 #### For further description and discussion of the networks, see:   
 
