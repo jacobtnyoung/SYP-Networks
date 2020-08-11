@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## The Special Youth Project Affiliation Data
 
-You can use the [editor on GitHub](https://github.com/jacobtnyoung/SYP-Networks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Overview of The Special Youth Project (SYP)
+The Boston Special Youth Project (SYP) was a federally funded study of a gang intervention program ([National Institute of Mental Health](https://www.nimh.nih.gov/index.shtml) occurring between 1953-1958. Conducted in and around the neighborhoods of Roxbury, MA, the study was one of the first large scale evaluations of a detached-worker program, and the first designed to specifically address gang delinquency (see [Miller 2011](https://ccj.asu.edu/gangresearch)). Spurred by the high profile murder of a rabbi in 1952 ([Miller 1957](http://www.journals.uchicago.edu/doi/abs/10.1086/640341)), the SYP was implemented to restructure the activities of adolescent street gangs toward pro-social activities, provide social services to project families, and provide the community with the tools needed to control delinquency following the completion of the study (see Miller [1957](http://www.journals.uchicago.edu/doi/abs/10.1086/640341), [1959](http://ann.sagepub.com/content/322/1/97.short) and [1962](http://socpro.oxfordjournals.org/content/10/2/168)). The study is best known as the basis for [Miller's elaboration](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-4560.1958.tb01413.x/abstract) of the focal concerns of lower class culture.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The SYP was a “detached-worker program,” where an adult (typically a graduate student from one of the surrounding universities) was assigned to an area (local parks, housing projects) to establish and maintain contact with and attempt to change the behaviors of the gangs. For example, outreach workers provided monetary assistance, sports equipment, and club-houses to the groups, and transported members to and from local sporting and social events. From June 1954 to May 1957, five male and two female outreach workers maintained contact with nearly 400 individuals between the ages of 12 and 21, across roughly two dozen gangs. Intensive contact with 204 individuals in seven groups was made during this period.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacobtnyoung/SYP-Networks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+These "intense study" groups were contacted by workers an average of 3.5 times per week for an average duration of 5.5 hours and the intervals of the contact periods ranged from 10 to 34 months (Miller 1962). During these contact periods, workers collected detailed field notes (“contact cards”) documenting the activities of study gang members and their interactions with each other, various community members (e.g., shop keepers, law enforcement), and the worker. 
